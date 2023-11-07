@@ -7,6 +7,7 @@ see LLM_agents.ipynb
 see auto_agent.ipynb
 
 ## c) Finetune LLM for your custom task
+see finetune_llm.ipynb
 
 ## d) use QLora to finetune a model. generate custom data set.
 see qlora.ipynb
