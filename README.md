@@ -9,6 +9,7 @@ see auto_agent.ipynb
 ## c) Finetune LLM for your custom task
 
 ## d) use QLora to finetune a model. generate custom data set.
+see qlora.ipynb
 
 ## e) Use mistral llm with RAG and demonstrate a production use case
 
