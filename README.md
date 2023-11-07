@@ -12,6 +12,7 @@ see auto_agent.ipynb
 see qlora.ipynb
 
 ## e) Use mistral llm with RAG and demonstrate a production use case
+see mistral.ipynb
 
 ## f) Integrate mistral model as backend with langchain - demonstrate simple prompts
 
