@@ -15,6 +15,7 @@ see qlora.ipynb
 see mistral.ipynb
 
 ## f) Integrate mistral model as backend with langchain - demonstrate simple prompts
+see mistral_llm.ipynb
 
 ## g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end
 
