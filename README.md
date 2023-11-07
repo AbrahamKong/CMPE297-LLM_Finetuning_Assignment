@@ -4,6 +4,7 @@
 see LLM_agents.ipynb
 
 ## b) Implement auto agent
+see auto_agent.ipynb
 
 ## c) Finetune LLM for your custom task
 
