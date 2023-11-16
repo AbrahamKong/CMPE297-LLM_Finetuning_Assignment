@@ -19,5 +19,6 @@ see mistral.ipynb
 see mistral_llm.ipynb
 
 ## g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end
+see Quantize_using_ggml.ipynb
 
 ## h) Use LLM studio and LLM Data Studio to demonstrate data set generation, fine-tuning, deployment to huggingface and inference (Gradio)
